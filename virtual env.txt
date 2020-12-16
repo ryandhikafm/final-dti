@@ -1,0 +1,28 @@
+1. buka anaconda prompt
+2. buat virtual environment
+
+conda create --name <nama env> python=3.8 
+nama yang umum digunakan adalah venv
+
+3. activate virtual environment
+
+activate <nama env>
+
+4. install library yang diperlukan
+
+pip install <nama library>
+
+5. Ubah directory ke folder di simpan
+
+cd <path-directory>
+
+6. Jalankan aplikasi
+
+python app.py
+
+7. Copas alamat hostingnya dengan ctrl + c
+
+8. Coba aplikasi
+
+9. Matikan aplikasi dengan cara ctrl + c
+
